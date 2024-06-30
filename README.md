@@ -27,5 +27,7 @@ Conclusion:
 Developing the Calculator application in Python has been a rewarding experience, allowing me to demonstrate my proficiency in programming and problem-solving skills. This project showcases my ability to deliver a functional software solution that meets practical needs, emphasizing clarity, reliability, and user satisfaction. It serves as a valuable addition to my internship portfolio, highlighting my dedication to developing effective and user-centric applications.
 
 
+![Screenshot 2024-06-30 230808](https://github.com/Siddhu570/CODTECH-Task2/assets/174267433/5b60fe08-8ea3-44bd-9ed0-de153cface07)
+
 
 
